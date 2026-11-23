@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Welcome to the Gento beta</title>
+<meta name="robots" content="noindex">
+<link rel="icon" href="favicon.png">
+<link rel="stylesheet" href="style.css">
+<style>
+  .steps { counter-reset: s; list-style: none; padding: 0; margin: 18px 0 0; display: grid; gap: 12px; }
+  .steps li { counter-increment: s; background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 16px 18px 16px 60px; position: relative; color: var(--muted); }
+  .steps li::before { content: counter(s); position: absolute; left: 18px; top: 15px; width: 28px; height: 28px; border-radius: 50%; background: var(--accent); color: #fff; font-weight: 700; display: grid; place-items: center; font-size: 14px; }
+  .steps b { color: var(--ink); }
+  kbd { font: 600 13px ui-monospace, Menlo, monospace; background: var(--bg); border: 1px solid var(--line); border-radius: 6px; padding: 1px 6px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <a class="brand" href="./"><img src="icon.png" alt="">Gento</a>
+    <nav><a href="./#contact">Help</a></nav>
+  </header>
+
+  <section style="border-top:0;padding-top:24px">
+    <span class="badge">You're in the beta</span>
+    <h1 style="font-size:38px;line-height:1.15;margin:0 0 10px;letter-spacing:-0.02em">Welcome to the Gento beta!</h1>
+    <p style="color:var(--muted);font-size:18px;margin:0">Your free <b style="color:var(--ink)">beta key</b> is on this receipt and in an email from <b style="color:var(--ink)">Dodo Payments</b>. As a thank-you for testing, it keeps Gento free for you <b style="color:var(--ink)">for life</b>, on 2 Macs.</p>
+
+    <ol class="steps">
+      <li><b>Already have Gento?</b> Skip to step 3. If not, download it:<br>
+        <a class="btn" style="margin-top:10px" href="https://github.com/Ahmad-Geno/gento-releases/releases/latest">Download Gento for Mac</a></li>
+      <li><b>Install it:</b> open the download, drag Gento to Applications and open it. The first time, macOS asks you to allow it: open <b>System Settings › Privacy &amp; Security</b> and click <b>Open Anyway</b>.</li>
+      <li><b>Activate:</b> click the Gento icon in the menu bar, choose <b>Licence…</b>, paste your key and click <b>Activate</b>.</li>
+    </ol>
+
+    <h2 style="margin-top:34px">Good to know</h2>
+    <div class="grid">
+      <div class="card"><h3>Tell Geno what you think</h3><p>Found a bug or want a tool? Use <b>Share Feedback…</b> in Gento's menu, or <a href="https://t.me/GenoAhmad">Telegram</a>. Updates arrive by themselves.</p></div>
+      <div class="card"><h3>New Mac?</h3><p>On the old Mac open <b>Licence…</b> and click <b>Deactivate This Mac</b>, then enter the key on the new one.</p></div>
+      <div class="card"><h3>No email?</h3><p>Check spam for a message from Dodo Payments. Still nothing? Message Geno on <a href="https://t.me/GenoAhmad">Telegram</a> with the email you paid with.</p></div>
+    </div>
+  </section>
+</div>
+<footer><div class="wrap">
+  <a href="terms.html">Terms</a><a href="privacy.html">Privacy</a><a href="refund.html">Refunds</a>
+  <span>© 2026 Ahmad Abdul-Ghany (Geno), Dubai, UAE. Gento is not affiliated with Microsoft.</span>
+</div></footer>
+</body>
+</html>
