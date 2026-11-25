@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Gento</title>
+    <item>
+      <title>Gento 0.27.0</title>
+      <pubDate>Wed, 25 Nov 2026 05:14:45 +0000</pubDate>
+      <sparkle:version>202611250914</sparkle:version>
+      <sparkle:shortVersionString>0.27.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Gento 0.27 public beta: 200+ power tools for PowerPoint for Mac in one tab. Redesigned panels (Guides, Spacing/Grid/Repeat, Corner Radius, Text Spacing, Page Numbers, Slide Size, Animate To, Timeline, Text Styles, Library, Presets, reports), Illustrator files to slides, Make Layout from Selection, native page numbers, Customise Gento Tab, Export/Import Settings, Arabic and right-to-left fixes. Free during the beta (100% off); a one-time purchase after it, no subscription.]]></description>
+      <enclosure url="https://github.com/Ahmad-Geno/gento-releases/releases/download/v0.27.0/Gento-0.27.0.zip" type="application/octet-stream" sparkle:edSignature="S2aLQOoDxSxeooAAnfsyJgaVt11+IqJHAFTDz+4eo3smcFBc3Mbm3WkzdvTd8KY4fxt8l17lHtHySH1ZOwjRCg==" length="12860741"/>
+    </item>
+
+  </channel>
+</rss>
