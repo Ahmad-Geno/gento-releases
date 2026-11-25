@@ -3,6 +3,15 @@
   <channel>
     <title>Gento</title>
     <item>
+      <title>Gento 0.27.2</title>
+      <pubDate>Wed, 25 Nov 2026 07:07:51 +0000</pubDate>
+      <sparkle:version>202611251107</sparkle:version>
+      <sparkle:shortVersionString>0.27.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[macOS now asks only once whether Gento may control PowerPoint, and Setup tells you to click Allow while it asks.]]></description>
+      <enclosure url="https://github.com/Ahmad-Geno/gento-releases/releases/download/v0.27.2/Gento-0.27.2.zip" type="application/octet-stream" sparkle:edSignature="vMf5kckYtRi/kIc9WkeOHrqHMwK/ex1r6gjZhWlm1tpSF5j1OPh4clsIRB5MqccyndklBGr9YbUbU2zbakI5Aw==" length="12866293"/>
+    </item>
+    <item>
       <title>Gento 0.27.1</title>
       <pubDate>Wed, 25 Nov 2026 06:31:07 +0000</pubDate>
       <sparkle:version>202611251030</sparkle:version>
