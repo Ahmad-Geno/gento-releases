@@ -3,6 +3,15 @@
   <channel>
     <title>Gento</title>
     <item>
+      <title>Gento 0.28.0</title>
+      <pubDate>Thu, 26 Nov 2026 09:45:46 +0000</pubDate>
+      <sparkle:version>202611261345</sparkle:version>
+      <sparkle:shortVersionString>0.28.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[New: Replace Fonts (Gento tab › Text). See every font your presentation uses, English and Arabic listed apart, and swap one for another everywhere: slides, tables, charts, masters, layouts and notes. Theme fonts change in the theme too. After updating, reopen PowerPoint to see the new button.]]></description>
+      <enclosure url="https://github.com/Ahmad-Geno/gento-releases/releases/download/v0.28.0/Gento-0.28.0.zip" type="application/octet-stream" sparkle:edSignature="OBHzs5tb5MM4Sq+bxIT7iRxB/VqjxZaXlf45BGW37Mcjb85mYmsuDHT+gSv+K59i9aqsI6W3LqFHjDA5eG9ZCw==" length="16816677"/>
+    </item>
+    <item>
       <title>Gento 0.27.5</title>
       <pubDate>Thu, 26 Nov 2026 04:40:02 +0000</pubDate>
       <sparkle:version>202611260839</sparkle:version>
