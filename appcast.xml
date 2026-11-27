@@ -3,6 +3,15 @@
   <channel>
     <title>Gento</title>
     <item>
+      <title>Gento 0.28.3</title>
+      <pubDate>Fri, 27 Nov 2026 15:33:47 +0000</pubDate>
+      <sparkle:version>202611271933</sparkle:version>
+      <sparkle:shortVersionString>0.28.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[If macOS blocks Gento from adding its tab to PowerPoint, Gento Setup now shows the fix (Allow Access) and finishes the install by itself. The Add-in tools check turns green once the scan is done, also when you have no other add-ins.]]></description>
+      <enclosure url="https://github.com/Ahmad-Geno/gento-releases/releases/download/v0.28.3/Gento-0.28.3.zip" type="application/octet-stream" sparkle:edSignature="V26p22+xNzsIp7zBkoUeL8/AIQvB3wkV92pQuclZBIXY2OBbW68JEPSTfHfd6QF2/kGgHc3ENz3elCqKdSHKDw==" length="16851079"/>
+    </item>
+    <item>
       <title>Gento 0.28.2</title>
       <pubDate>Fri, 27 Nov 2026 15:01:11 +0000</pubDate>
       <sparkle:version>202611271901</sparkle:version>
