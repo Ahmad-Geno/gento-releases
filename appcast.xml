@@ -3,6 +3,15 @@
   <channel>
     <title>Gento</title>
     <item>
+      <title>Gento 0.28.6</title>
+      <pubDate>Fri, 27 Nov 2026 16:34:03 +0000</pubDate>
+      <sparkle:version>202611272033</sparkle:version>
+      <sparkle:shortVersionString>0.28.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Corner Radius: Done keeps your change. Panels: drag the Colour Bar anywhere and it stays there; Pin keeps panels where they are; every panel can be resized and opens at your size next time.]]></description>
+      <enclosure url="https://github.com/Ahmad-Geno/gento-releases/releases/download/v0.28.6/Gento-0.28.6.zip" type="application/octet-stream" sparkle:edSignature="x/rkJ72S2zCVp1/fKvs1a8LwIqpaG2oJll70AQsobvOfEcWEt/PVknl5ltjKshaP4iAorNiXR6UKwvB1F8CdCA==" length="16894790"/>
+    </item>
+    <item>
       <title>Gento 0.28.5</title>
       <pubDate>Fri, 27 Nov 2026 16:09:30 +0000</pubDate>
       <sparkle:version>202611272009</sparkle:version>
